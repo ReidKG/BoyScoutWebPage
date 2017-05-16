@@ -1,9 +1,9 @@
 
 
 body{
-    background-image: url("../BoyScoutWebPage/images/bsa_background.gif");
+    background-image: url("../BoyScoutWebPage/images/bsa_background.gif"); /*adds background image*/
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; /*expands image to fill screen*/
     background-position-x: center;
     background-position-y: center;
 }
@@ -32,18 +32,18 @@ p.mission{
     margin-right: 30px;
 }
 
-img.packNumber{
-    display: inline-block;
+img.troopNumber{
+    /*display: inline-block;*/
     margin-left: auto;
     margin-right: auto;
 }
 
 #numberImages{
-    text-align: center;
+    text-align: center; /*centers the images*/
 }
 
 img.scouting{
-    display: inline-block;
+    /*display: inline-block;*/
     height: 110px;
     width: 110px;
     margin-left: 15px;
@@ -53,7 +53,7 @@ img.scouting{
 }
 
 #scoutImages{
-    text-align: center;
+    text-align: center; /*centers the images*/
 }
 
 footer{
