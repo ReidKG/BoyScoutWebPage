@@ -1,7 +1,7 @@
 
 
 body{
-    background-image: url("../BoyScoutWebPage/images/bsa_background.gif"); /*adds background image*/
+    background-image: url("./images/bsa_background.gif"); /*adds background image*/
     background-repeat: no-repeat;
     background-size: cover; /*expands image to fill screen*/
     background-position-x: center;
